@@ -1,0 +1,1 @@
+alert (" Estamos desarrollando nuestra página, esta es una pagina genèrica de muestra y alternativa. Muy pronto estará disponible la página definitiva. Los medios de contacto son nuestros y verdaderos.")
